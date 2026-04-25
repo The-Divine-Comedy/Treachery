@@ -8,7 +8,7 @@
 1.8: H-L [1.7] -(1/1000th s) - BE -(13{U}, 5{L}, 22{U})
 1.9: [!Rd! fr x(1.8) + y(1.8) {6 dcml}]
 2.0: [1.9]*((kg - {7})^2)*(-a) -- This part is in Rad for some reason (most likely me using Rad prior to making this part forgetting to switch back).
-2.1: [1.1]^[2.0] nswr n: {J^J^y} - {J^J^} {{rnd flr}}
+2.1: [1.1]^[2.0] nswr n: {J^J^y} | y=? {{rnd flr}}
 2.2: -[2.1] + nswr t Grd > cmbn (su1osorte3ohOnSwMMJRlRkaQYCBXQsbUhfm0wk3hspciznbchx00lmc0BlqB3kycGzuBUDlgtYhtxVFhnEhaUR?!)
 
 Congratulations!
